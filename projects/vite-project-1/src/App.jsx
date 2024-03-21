@@ -1,5 +1,4 @@
 // import LikeButton from "./components/LikeButton"
-// import CardFollow from "./components/FollowedCard"
 import SectionCardFollowed from './components/SectionFollowedCard'
 import './App.css'
 
